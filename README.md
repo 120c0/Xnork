@@ -20,3 +20,6 @@
   <a href="https://twitter.com/__Xnork" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://chat.whatsapp.com/I1MbIZVAo0vCa3jTrTwjIp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
+
+  ![Snake animation](https://github.com/Xnork/Xnork/blob/output/github-contribution-grid-snake.svg)
