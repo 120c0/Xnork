@@ -1,4 +1,4 @@
-<h1 align="center">"O ferro mais duro é forjado no fogo mais quente"</h1>
+<h1 align="center">"Se quer fazer algo grande, começe arrumando sua cama."</h1>
 
 <div align=>
   <a href="https://github.com/Xnork">
