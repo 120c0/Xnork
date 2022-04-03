@@ -1,4 +1,4 @@
-<h1 align="center">"Se quer fazer algo grande, começe arrumando sua cama."</h1>
+<h1 align="center">"Existe dois tipos diferentes de pessoas no mundo, as que querem saber e as que querem acreditar."</h1>
 
 <div align=>
   <a href="https://github.com/Xnork">
