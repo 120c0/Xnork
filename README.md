@@ -1,5 +1,3 @@
-<h1 align="center">"Existe dois tipos diferentes de pessoas no mundo, as que querem saber e as que querem acreditar."</h1>
-
 <div align=>
   <a href="https://github.com/Xnork">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xnork&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,5 +19,12 @@
   <a href="https://chat.whatsapp.com/I1MbIZVAo0vCa3jTrTwjIp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
+
+ ![Aditya's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Xnork&theme=redical&hide_border=true&area=true)
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Xnork&show_icons=true&theme=radical)             | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xnork&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xnork4&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Xnork&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+-------
 
   ![Snake animation](https://github.com/Xnork/Xnork/blob/output/github-contribution-grid-snake.svg)
