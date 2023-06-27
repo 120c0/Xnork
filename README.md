@@ -1,5 +1,5 @@
-## Skills
-- C/C++, Lua, Python, Java
+# Skills
+- C/C++, Rust, Python, Java
 - ReactJS
 - HTML/CSS, JavaScript (Web)
 
@@ -13,8 +13,8 @@
 </div>
 <hr/>
 <div> 
-  <a href="https://www.youtube.com/channel/UCVoo4-D0uiqlvAjhNSrKuQg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/__Xnork" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@Xnork" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/_xnork_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Xnork&show_icons=true&theme=radical)             | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xnork&theme=radical)                                                                                                           |
