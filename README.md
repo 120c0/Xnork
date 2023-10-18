@@ -1,6 +1,7 @@
 # Skills
 - C/C++, Rust, Python, Java
-- ReactJS
+- NextJS, Node-Sass, TypeScript
+- Sequelize (SQLite3), Linux
 - HTML/CSS, JavaScript (Web)
 
 <div style="display: inline_block"><br>
